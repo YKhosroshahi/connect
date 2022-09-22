@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YKhosroshahi/connect/issues"
   },
-  "homepage": "https://github.com/YKhosroshahi/connect#readme"
+  "homepage": "https://github.com/YKhosroshahi/connect#readme",
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
 }
